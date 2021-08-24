@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reverie/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reverie/static/js/main.8ba3eb8f.chunk.js",
+    "main.js.map": "/reverie/static/js/main.8ba3eb8f.chunk.js.map",
+    "runtime-main.js": "/reverie/static/js/runtime-main.d7a9f682.js",
+    "runtime-main.js.map": "/reverie/static/js/runtime-main.d7a9f682.js.map",
+    "static/js/2.b484b448.chunk.js": "/reverie/static/js/2.b484b448.chunk.js",
+    "static/js/2.b484b448.chunk.js.map": "/reverie/static/js/2.b484b448.chunk.js.map",
+    "static/js/3.779cecc3.chunk.js": "/reverie/static/js/3.779cecc3.chunk.js",
+    "static/js/3.779cecc3.chunk.js.map": "/reverie/static/js/3.779cecc3.chunk.js.map",
+    "index.html": "/reverie/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reverie/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b484b448.chunk.js.LICENSE.txt": "/reverie/static/js/2.b484b448.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reverie/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a9f682.js",
+    "static/js/2.b484b448.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8ba3eb8f.chunk.js"
+  ]
+}
